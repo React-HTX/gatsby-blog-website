@@ -1,0 +1,22 @@
+{
+  "name": "houston-react-developers-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Houston React Developers Website",
+  "author": "Fabian Buentello",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
