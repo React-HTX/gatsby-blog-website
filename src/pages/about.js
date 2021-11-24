@@ -1,8 +1,6 @@
 import React from "react";
 import Layout from "../components/layout";
 
-const hello = 2;
-
 const AboutPage = () => {
   return (
     <Layout pageTitle="About Me">
